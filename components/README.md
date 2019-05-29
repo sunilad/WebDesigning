@@ -1,0 +1,1 @@
+[Angular Navbar fix](https://medium.com/@tiboprea/build-a-responsive-bootstrap-4-navbar-in-angular-5-without-jquery-c59ad35b007)
